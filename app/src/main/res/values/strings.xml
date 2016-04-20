@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Quiz App</string>
+    <string name="action_settings">Settings</string>
+    <string name = "instructions">Instructions: Answer the question
+            with true or false. At the end of your game, your score
+            will be shown.</string>
+    <string-array name = "questions">
+        <item>Is the sun yellow?</item>
+        <item>Is this true? 3 + 4 = 11</item>
+        <item>The abbrevation of Washington State is WA.</item>
+    </string-array>
+    <string name = "trueButton">True</string>
+    <string name = "falseButton">False</string>
+    <string name = "previous">  Previous </string>
+    <string name = "next"> Next ></string>
+</resources>
